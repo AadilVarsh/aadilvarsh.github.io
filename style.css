@@ -1,1 +1,14 @@
-" " 
+*{
+margin: 0;
+padding: 0;
+}
+
+h5{
+color : pink;
+margin : 50%
+}
+
+button{
+ background-color : red;
+ border-radius : 30px;
+}
